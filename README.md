@@ -5,7 +5,7 @@ analysis. This means data analysis (DA), data visualization (DV), feature
 engineering (FE) and machine learning (ML). 
 
 | Directory | Status | Quality of Effort | DS Methodologies |
-| --------- | ------ | ------- |
+| --------- | ------ | ------- | --------|
 | Gender_Classification | Complete | Poor | DA/ML |
 | Data_Science_Salaries | Complete | Good | DA/DV |
 | Medical_Cost_Personal_Datasets | Complete | Poor | |
