@@ -8,6 +8,6 @@ engineering (FE) and machine learning (ML).
 | --------- | ------ | ------- | --------|
 | Gender_Classification | Complete | Poor | DA/ML |
 | Data_Science_Salaries | Complete | Good | DA/DV |
-| Medical_Cost_Personal_Datasets | Complete | Poor | |
+| Medical_Cost_Personal_Datasets | Complete | Good | DA/DV/ML |
 | Weather_Image_Classification | In Progress | |
 | Where_it_pays_to_go_to_college | Complete | Good | DA/DV |
